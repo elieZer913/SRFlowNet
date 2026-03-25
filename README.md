@@ -20,7 +20,7 @@ SRFlowNet focuses on **2D optical flow estimation**, independent of 3D scene flo
 
 SRFlowNet serves as the foundation for our subsequent work on scene flow.
 
-* **SRFlowNet** models 2D optical flow
+* **[SRFlowNet](https://github.com/elieZer913/SRFlow3DNet)** models 2D optical flow
 * **SRFlow3DNet** extends it to 3D scene flow
 
 This repository contains the standalone optical flow model and training framework.
