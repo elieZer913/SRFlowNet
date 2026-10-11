@@ -48,7 +48,7 @@ Only the optical flow component is required.
 ## TODO
 
 * [ ] Release training code
-* [ ] Release pretrained models
+* [x] Release pretrained models
 * [ ] Provide evaluation scripts
 * [ ] Add detailed documentation
 
